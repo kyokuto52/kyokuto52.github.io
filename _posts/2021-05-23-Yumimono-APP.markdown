@@ -14,7 +14,3 @@ The name 'Yomimono' is means 'reading material' in Japanese.
 
 
 ![]({{site.baseurl}}/images/HomeAPP2.jpg)
-
-<div style="align: center">
-<img src="/images/HomeAPP2.jpg"/>
-</div>
