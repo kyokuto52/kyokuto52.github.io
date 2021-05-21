@@ -12,7 +12,7 @@ Including contents about technology, finance, photography, lifestyle.
 
 The name 'Yomimono' is means 'reading material' in Japanese.
 
-[^Attention]: Now the server is down, Sorry._
+_Attention: Now the server is down, Sorry._
 
 
 ![]({{site.baseurl}}/images/HomeAPP2.jpg)
