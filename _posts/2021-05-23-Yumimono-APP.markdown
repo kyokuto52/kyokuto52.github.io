@@ -8,7 +8,7 @@ categories: Develop
 ---
 A Reading Application for mobile device.
 
-Including contents about technolay, finance, photography, lifestyle.
+Including contents about technology, finance, photography, lifestyle.
 
 The name 'Yomimono' is means 'reading material' in Japanese.
 
