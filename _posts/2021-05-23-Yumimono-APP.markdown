@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yomimono APP(
+title: Yomimono APP (Android, iOS)
 image: 8.jpg
 date: 2021-05-23 18:20:05 +0900
 tags: [Develop, Android, iOS]
