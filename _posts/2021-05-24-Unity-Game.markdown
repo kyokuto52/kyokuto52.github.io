@@ -14,4 +14,4 @@ You can download free in [Here][link-1].
 
 Only Chinese version available now.
 
-[link-1]https://github.com/kyokuto52/UnityGame-Othello-AI
+[link-1]:https://github.com/kyokuto52/UnityGame-Othello-AI
