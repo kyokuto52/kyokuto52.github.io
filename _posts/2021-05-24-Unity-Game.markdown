@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UnityGame Othello-AI
-image: 7.jpg
+image: Othello.jpg
 date: 2021-05-24 18:20:00 +0900
 tags: [Develop, Android, iOS]
 categories: develop
