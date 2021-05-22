@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nova's Portfolio Website
-image: CraneGame.jpg
+image: nsite2.jpg
 date: 2021-05-25 22:12:24 +0900
 tags: [Develop, Web, Java, JS]
 categories: develop
@@ -14,3 +14,6 @@ The problem is that cloud server is expensive, but home server is slow for visit
 
 Recently, this project in stagnation.
 
+![]({{site.baseurl}}/images/nsite0.jpg)
+![]({{site.baseurl}}/images/nsite1.jpg)
+![]({{site.baseurl}}/images/nsite2.jpg)
