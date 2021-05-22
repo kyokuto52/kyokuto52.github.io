@@ -4,7 +4,7 @@ title: Auto Cat Feeder by Intel IoT
 image: Catfeeder.jpg
 date: 2021-05-24 13:10:00 +0900
 tags: [Develop, IoT, C++, Arduino]
-categories: Develop
+categories: develop
 ---
 I bought this Intel Edison Kit from Yahoo Acution.
 
