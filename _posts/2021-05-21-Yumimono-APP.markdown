@@ -10,7 +10,7 @@ A Reading Application for mobile device.
 
 Including contents about technology, finance, photography, lifestyle.
 
-The name 'Yomimono' is means "reading material" in Japanese.
+The name `Yomimono` is means `reading material` in Japanese.
 
 _Attention: Now the server is down, Sorry._
 
