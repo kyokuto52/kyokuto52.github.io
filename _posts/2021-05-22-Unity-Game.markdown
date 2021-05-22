@@ -3,7 +3,7 @@ layout: post
 title: UnityGame Othello-AI
 image: Othello.jpg
 date: 2021-05-22 18:20:00 +0900
-tags: [Develop, Android, iOS]
+tags: [Develop, Unity, C#]
 categories: develop
 ---
 This is an othello game with strong AI.
