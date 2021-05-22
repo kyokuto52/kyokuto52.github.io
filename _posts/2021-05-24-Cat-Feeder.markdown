@@ -8,7 +8,7 @@ categories: Develop
 ---
 I bought this Intel Edison Kit from Yahoo Acution.
 
-This is a IoT evaluation board that compatible with Arduino;
+This is a IoT evaluation board that compatible with Arduino.
 
 Subjoin a motor, a LED display, and a hand-made cardboard case, It can feed my cat every hours automatically.
 
