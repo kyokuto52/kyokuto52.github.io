@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yomimono APP (Android, iOS)
-image: 8.jpg
+image: HomeAPP.jpg
 date: 2021-05-21 18:20:05 +0900
 tags: [Develop, Android, iOS]
 categories: develop
