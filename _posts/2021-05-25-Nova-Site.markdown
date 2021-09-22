@@ -6,11 +6,11 @@ date: 2021-05-25 22:12:24 +0900
 tags: [Develop, Web, Java, JS]
 categories: develop
 ---
-This is a portfolio website what powered by React.js + Spring Boot.
+This is a portfolio website powered by React.js + Spring Boot.
 
-I plan to put my photographs into this server, then display to user by web.
+I plan to put my photographs into this server, then display them to the user by web.
 
-The problem is that cloud server is expensive, but home server is slow for visit.
+The problem is that the cloud server is expensive, but the home server is slow for visits.
 
 Recently, this project in stagnation.
 
