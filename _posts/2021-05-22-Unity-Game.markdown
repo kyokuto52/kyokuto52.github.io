@@ -6,12 +6,12 @@ date: 2021-05-22 18:20:00 +0900
 tags: [Develop, Unity, C#]
 categories: develop
 ---
-This is an othello game with strong AI.
+This is an Othello game with strong AI.
 
 Made by Unity Engine.
 
-You can download free in [Here][link-1].
+You can download it free [Here][link-1].
 
-Only Chinese version available now.
+Only the Chinese version is available now.
 
 [link-1]:https://github.com/kyokuto52/UnityGame-Othello-AI
