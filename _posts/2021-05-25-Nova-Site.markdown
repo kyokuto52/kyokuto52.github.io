@@ -6,13 +6,13 @@ date: 2021-05-25 22:12:24 +0900
 tags: [Develop, Web, Java, JS]
 categories: develop
 ---
-This is a portfolio website powered by React.js + Spring Boot.
+This is a portfolio website powered by React.js and Spring Boot.
 
-I plan to put my photographs into this server, then display them to the user by web.
+I planned to host my photographs on the server and display them to users via the web.
 
-The problem is that the cloud server is expensive, but the home server is slow for visits.
+However, cloud hosting is expensive, and my home server is too slow for public access.
 
-Recently, this project in stagnation.
+As a result, the project is currently on hold.
 
 ![]({{site.baseurl}}/images/nsite0.jpg)  
 
