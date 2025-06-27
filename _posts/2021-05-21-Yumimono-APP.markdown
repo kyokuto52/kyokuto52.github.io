@@ -6,13 +6,12 @@ date: 2021-05-21 18:20:05 +0900
 tags: [Develop, Android, iOS]
 categories: develop
 ---
-A Reading Application for mobile device.
+Yomimono – A Mobile Reading App
 
-Including contents about technology, finance, photography, lifestyle.
+Discover curated content on technology, finance, photography, and lifestyle.
+“Yomimono” means “reading material” in Japanese.
 
-The name `Yomimono` is means `reading material` in Japanese.
-
-<span style="color: red; ">_Attention: Now the server is down, Sorry._</span>
+<span style="color: red; ">_Note: Our server is currently down. Sorry._</span>
 
 
 ![]({{site.baseurl}}/images/HomeAPP2.jpg)
