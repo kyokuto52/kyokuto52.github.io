@@ -1,18 +1,18 @@
 title: Nova Space
-description: Nova GUO 2021 © Powered by Jekyll.
+description: Nova GUO 2025 © Powered by Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "kyokuto52.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Nova GUO (Kaku)
+author-name:    Nova Guo (Kaku)
 author-image:   1.jpg
-author-job:     Software Engineer
+author-job:     Technology Consultant
 author-email:   kyokuto.kaku@gmail.com # Add your email for contant form.
 author-twitter: Kyokuto52 # Add your twitter account
-about-author:   Thank you for visit this site. I will share some my works in here.
+about-author:   Thank you for visiting this site. I will share some of my works here.
 
 # Social settings
-social-twitter:   Kyokuto52
+social-twitter:   
 social-facebook:
 social-github:    Kyokuto52
 social-pinterest: 
